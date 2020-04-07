@@ -6,6 +6,6 @@
     <string name="requesting_thumbnails">Pobieram miniaturki, proszę o cierpliwość</string>
     <string name="multi_image_picker_processing_images_title">Przetwarzam zdjęcia</string>
     <string name="multi_image_picker_processing_images_message">To może chwilę zająć</string>
-    <string name="discard" translatable="false">Anuluj</string>
-    <string name="done" translatable="false">OK</string>
+    <string name="discard" translatable="false"></string>
+    <string name="done" translatable="false"></string>
  </resources>

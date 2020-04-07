@@ -6,8 +6,8 @@
     <string name="requesting_thumbnails">Obtendo as miniaturas, aguarde</string>
     <string name="multi_image_picker_processing_images_title">Processando imagens</string>
     <string name="multi_image_picker_processing_images_message">Isso pode levar um tempo, aguarde</string>
-    <string name="discard" translatable="false">Cancelar</string>
-    <string name="done" translatable="false">OK</string>
+    <string name="discard" translatable="false"></string>
+    <string name="done" translatable="false"></string>
     <string name="max_count_photos_title">Limite de %d fotos</string>
     <string name="max_count_photos_message">Você pode selecionar até %d fotos</string>
  </resources>
